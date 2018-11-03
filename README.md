@@ -1,4 +1,5 @@
 # HFS_Clust
+# How to Use:
 Multiset Hesitant Fuzzy Set Clustering Using  Apache Spark
 This is a code Snippet designed for data clustering using Hesitant Fuzzy Sets.
 It is written in Scala so the JRE of Java and Scala Compilers with Apache Spark frameworks are a must before begining with this code.
