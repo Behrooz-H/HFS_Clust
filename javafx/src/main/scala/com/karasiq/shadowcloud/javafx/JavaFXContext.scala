@@ -6,7 +6,7 @@ import scala.concurrent.duration._
 import scala.language.postfixOps
 import scala.util.control.NonFatal
 import scalafx.application.{JFXApp, Platform}
-
+// Defining the main chnages
 
 import akka.actor.{ExtendedActorSystem, Extension, ExtensionId, ExtensionIdProvider}
 
